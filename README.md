@@ -12,8 +12,14 @@ Full-stack developer with experience in Java, SpringBoot, React, Node.js, Expres
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github.com/harshpandeyz/DEVOPS-REACT)<br/>
-![](https://github.com/ashvinigjadhav/TYSMADPBA1)<br/>
-![](https://github.com/ipoonawala9/MoodBasedQuoteGenerator)<br/>
-![](https://github.com/harshpandeyz/flask-api-docker-demo)<br/>
-![](https://github.com/rohinibhosale1223/FSD_TY-SMAD_25-26)<br/>
+### 🥷 Top Contributed Repo
+
+[![DEVOPS-REACT](https://github-readme-stats.vercel.app/api/pin/?username=harshpandeyz&repo=DEVOPS-REACT)](https://github.com/harshpandeyz/DEVOPS-REACT)
+<br/>
+[![TYSMADPBA1](https://github-readme-stats.vercel.app/api/pin/?username=ashvinigjadhav&repo=TYSMADPBA1)](https://github.com/ashvinigjadhav/TYSMADPBA1)
+<br/>
+[![MoodBasedQuoteGenerator](https://github-readme-stats.vercel.app/api/pin/?username=ipoonawala9&repo=MoodBasedQuoteGenerator)](https://github.com/ipoonawala9/MoodBasedQuoteGenerator)
+<br/>
+[![flask-api-docker-demo](https://github-readme-stats.vercel.app/api/pin/?username=harshpandeyz&repo=flask-api-docker-demo)](https://github.com/harshpandeyz/flask-api-docker-demo)
+<br/>
+[![FSD TY-SMAD 25-26](https://github-readme-stats.vercel.app/api/pin/?username=rohinibhosale1223&repo=FSD_TY-SMAD_25-26)](https://github.com/rohinibhosale1223/FSD_TY-SMAD_25-26)
