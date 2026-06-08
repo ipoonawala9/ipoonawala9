@@ -12,9 +12,9 @@ Full-stack developer with experience in Java, SpringBoot, React, Node.js, Expres
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📊 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipoonawala9&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ipoonawala9&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ipoonawala9&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipoonawala9&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ipoonawala9&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ipoonawala9&theme=2077)
 
 ### 🥷 Top Contributed Repo
 
